@@ -1,5 +1,6 @@
 {
   "name": "labflow-frontend",
+  "homepage": "https://kingsyoung.github.io/LabFlow/",
   "private": true,
   "version": "0.1.0",
   "type": "module",
